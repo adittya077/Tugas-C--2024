@@ -58,7 +58,7 @@ int main() {
     do {
         cout << "\n=== Menu program ===" << endl;
         cout << "1. Tampilkan Biodata" << endl;
-        cout << "2. penjumlahan Dua Bilangan" << endl;
+        cout << "2. Penjumlahan Dua Bilangan" << endl;
         cout << "3. Menghitung Luas Segitiga" << endl;
         cout << "4. Menghitung Luas Lingkaran" << endl;
         cout << "5. Konversi Detik Ke Menit"  << endl;

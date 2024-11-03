@@ -3,13 +3,13 @@ using namespace std;
 
 // Fungsi untuk menampilkan biodata
 void tampilkanBiodata() {
-    string nama = "Nama kammu";
+    string nama = "I Gusti Ngurah Cahya Aditya Dinata";
     int umur = 20;
     string alamat = "Alamat Anda";
 
     cout << "=== Biodata ===" << endl;
     cout << "Nama   :  "<< nama << endl;
-    cout << "umur   :  "<< umur << " tahun" << endl;
+    cout << "Umur   :  "<< umur << " tahun" << endl;
     cout << "Alamat :  "<< alamat << endl;
 }
 

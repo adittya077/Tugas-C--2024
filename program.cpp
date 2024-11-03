@@ -4,8 +4,8 @@ using namespace std;
 // Fungsi untuk menampilkan biodata
 void tampilkanBiodata() {
     string nama = "I Gusti Ngurah Cahya Aditya Dinata";
-    int umur = 20;
-    string alamat = "Alamat Anda";
+    int umur = 17;
+    string alamat = "Br. Menak Beringkit";
 
     cout << "=== Biodata ===" << endl;
     cout << "Nama   :  "<< nama << endl;
